@@ -4,7 +4,7 @@ Heavily inspired by [Flight-School/RegularExpressionDecoder](https://github.com/
 
 ## Usage
 
-```
+```swift
 import CSVDecoder
 
 
